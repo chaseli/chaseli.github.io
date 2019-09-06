@@ -666,7 +666,7 @@ div.ac > ul > li:before,
 .article-entry .highlight pre {
   border: none;
   margin: 0;
-  padding: 0;
+  padding: 1;
 }
 .article-entry .highlight table {
   margin: 0;
